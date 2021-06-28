@@ -1,0 +1,1 @@
+Creating a simple CRUD project from PROGATE Course with Express JS and MySql database
